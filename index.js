@@ -18,7 +18,7 @@ function add(a,b){
   return a/b
 }
 
-function makeInt(n){
+function increment(n){
   var x = parseInt('10', n)
   return x
 }
