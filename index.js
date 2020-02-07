@@ -19,6 +19,6 @@ function add(a,b){
 }
 
 function increment(n){
-  var x = parseInt('10', n)
-  return x
+  
+  return n--
 }
