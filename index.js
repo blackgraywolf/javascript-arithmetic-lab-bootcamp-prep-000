@@ -20,5 +20,5 @@ function add(a,b){
 
 function increment(n){
   
-  return n--
+  return n++
 }
