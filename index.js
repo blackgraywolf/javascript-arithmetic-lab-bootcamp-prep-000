@@ -21,4 +21,7 @@ function add(a,b){
 function increment(n){
   n++
   return n
+}function decrement(n){
+  n--
+  return n
 }
